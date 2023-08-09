@@ -46,3 +46,7 @@ This notebook takes a look at basic Python commands for first time Python coders
 
 ### Using Pandas ###
 This notebook takes a look at how pandas can be used by a beginner
+
+## Author
+**Jacqui Muller**
+
